@@ -88,9 +88,4 @@ curl -X POST http://localhost:8000/verify \
 
 ---
 
-## Project Info
 
-- **Batch**: A8
-- **College**: Dayananda Sagar Academy of Technology & Management (DSATM)
-- **Guide**: Dr. Shalini S
-- **Submission**: 25% PoC Review
